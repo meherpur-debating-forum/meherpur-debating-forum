@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius:50%; border: 2px solid #58A6FF;" alt="Meherpur Debating Forum Logo" />
+  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius:50%; border: 2px solid #58A6FF;" alt="20251214_120222.jpg" />
 
   <h1>Meherpur Debating Forum</h1>
 
